@@ -1,0 +1,21 @@
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\bin\Debug\Kantin Duniaku.exe
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\bin\Debug\Kantin Duniaku.pdb
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\bin\Debug\Kantin Duniaku.xml
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form1.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Resources.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin Duniaku.vbproj.GenerateResource.Cache
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin Duniaku.exe
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin Duniaku.xml
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin Duniaku.pdb
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\bin\Debug\Guna.UI.dll
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\bin\Debug\Guna.UI.pdb
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form2.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form3.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form4.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin Duniaku.vbprojResolveAssemblyReference.cache
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form5.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form6.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form7.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form8.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form10.resources
+D:\LKS2020\Kantin Duniaku\Kantin Duniaku\obj\x86\Debug\Kantin_Duniaku.Form9.resources
